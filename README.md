@@ -12,7 +12,7 @@ I am a Munich based Machine Learning Engineer with deep interest in 3D Computer 
 ![](https://img.shields.io/badge/-Docker-333?style=flat-square&logo=Docker&logoColor=fff)
 
 ### Connect with me:
-[<img align="left" alt="Aditya-tumcse | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Aditya-tumcse | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/aditya-sai-srinivas/
 <!---
