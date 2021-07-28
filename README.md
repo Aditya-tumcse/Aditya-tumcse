@@ -2,7 +2,7 @@
 <a href="#">
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Aditya-tumcse&show_icons=true&hide_border=false&icon_color=586069&hide=contribs">
 </a>
-I am a Munich based Machine Learning Engineer with deep interest in 3D Computer Vision and Deep Learning. I’m currently pursuing my Master's in Computational Science and Engineering at Technical University of Munich (TUM).
+I am a Munich based Machine Learning Engineer with deep interest in 3D Computer Vision and Machine Learning. I’m currently pursuing my Master's in Computational Science and Engineering at Technical University of Munich (TUM).
 
 
 
