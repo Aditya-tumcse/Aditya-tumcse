@@ -2,8 +2,7 @@
 <a href="#">
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Aditya-tumcse&show_icons=true&hide_border=false&icon_color=586069&hide=contribs">
 </a>
-I am a Munich based Machine Learning Engineer with deep interest in 3D Computer Vision and Machine Learning. I’m currently pursuing my Master's in Computational Science and Engineering at Technical University of Munich (TUM).I work part time as a Machine Learning Engineer at a YC-2022 backed startup Pina Technologies GmbH and simultaneously am pursuing my master thesis at Computer Vision group at TUM in the field of Shape Analysis and Geometric Deep Learning.
-
+I am Brixen based computer vision and machine learning engineer with deep interests in multi-view geometry and geometric deep learning. I am working at Covision Lab in Brixen in Italy that builds 3D scanners.I recently graduated from my masters in computational science and engineering with focus on 3D computer vision and deep learning from TUM. I love to build highly efficient and production ready code.
 
 
 ![](https://img.shields.io/badge/-PyTorch-e34f26?style=flat-square&logo=PyTorch&logoColor=fff)
